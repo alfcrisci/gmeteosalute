@@ -1,2 +1,2 @@
 # gmeteosalute
-example of use in grads for metesalute inititiative IBIMET CNR
+Educational example visualisation of meteosalute layer IBIMET CNR 
