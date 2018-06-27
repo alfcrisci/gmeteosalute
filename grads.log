@@ -1,0 +1,28 @@
+
+Grid Analysis and Display System (GrADS) Version 2.0.2
+Copyright (c) 1988-2011 by Brian Doty and the
+Institute for Global Environment and Society (IGES)
+GrADS comes with ABSOLUTELY NO WARRANTY
+See file COPYRIGHT for more information
+
+Config: v2.0.2 little-endian readline printim grib2 netcdf hdf4-sds hdf5 opendap-grids,stn geotiff shapefile
+Issue 'q config' command for more detailed configuration information
+GX Package Initialization: Size = 11 8.5 
+Running in Batch mode
+file= meteosalute_2018062609_d01.nc
+inittime= 26JUN2018
+tstep= 9
+fileconf= gradscode/bio_utcicla_cmd.conf
+dirout= graph
++++++++++++++++++++++++++++++++++++
+      utcicla_tos
++++++++++++++++++++++++++++++++++++
+palette_bencla.gs
+Map file format error: Invalid rec type 170 rec num 1033
+Map file format error: Invalid rec type 20 rec num 609
+Map file format error: Invalid rec type 170 rec num 1033
+Map file format error: Invalid rec type 20 rec num 609
+trovato Intervalli: 9
+trovato 9
+No hardcopy metafile open
+GX package terminated 
